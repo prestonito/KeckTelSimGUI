@@ -1,0 +1,6 @@
+site_name: TelSIM GUI Documentation
+site_url: https://telsimguidocumentation.com/
+nav:
+    - Home : index.md
+    - About: about.md
+theme: readthedocs
